@@ -8,7 +8,7 @@
 <hr/>
 ## 🚀 Streak Stats
 
-<p align="center"><img src="" alt=#""  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ItzWay&theme=algolia" alt="ItzWay"  /></p>
 
 ## 🛠️ My Skills
 

@@ -4,7 +4,7 @@
 <h4 align="center">I am a web developer and minecraft server developer</h4>
 <h4 align="center">I am currently learning programming languages like javascript, java, etc.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ItzWay&label=Profile%20views&color=0e75b6&style=plastic" alt="ItzWay" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ItzWay&label=Profile%20views&color=0e75b6&style=plastic" alt="#" /> </p>
 <hr/>
 ## 🚀 Streak Stats
 

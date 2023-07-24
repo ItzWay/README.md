@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm ItzWay <img src="" width="35"></h1>
+<h1 align="center">Hi , I'm ItzWay</h1>
 <p align="center">
 </p>
 <h4 align="center">I am a web developer and minecraft server developer</h4>
